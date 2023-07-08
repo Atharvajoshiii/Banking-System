@@ -19,7 +19,7 @@ int main(){
 
     printf("WELCOME TO BANKING SYSTEM");
     printf("==============================");
-    printf("\n What fo you want to do ?");
+    printf("\n how can we help you?");
     printf("\n\n1.Register an account");
     printf("\n2. Login to an account");
     printf("==============================");
